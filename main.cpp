@@ -2,8 +2,8 @@
 	      01 Higher/Lower, Heads/Tails
 	- This Higher/Lower, Heads/Tails Games.
 	- Author : Ibrahim Mohamed Abdul-Meged.
-			 : facebook.com/Ibrahiim.Pasha
-			 : github.com/Ibrahiim-Pasha
+	         : facebook.com/Ibrahiim.Pasha
+		 : github.com/Ibrahiim-Pasha
 	- Date : 23/9/2016 - 4:53 AM
 
 *************************************************/
